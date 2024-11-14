@@ -1,0 +1,1 @@
+export default `<div class='tab' id='menu'><h2>Nothing on our menu yet</h2></div>`
